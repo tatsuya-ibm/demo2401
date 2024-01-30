@@ -1,4 +1,5 @@
 target/
+!target/demo2401.war
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
